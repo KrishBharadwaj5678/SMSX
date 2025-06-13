@@ -65,3 +65,32 @@ streamlit run app.py
 
 ---
 
+## 🤝 Contribution
+
+Contributions are **welcome**!
+
+1. 🍴 **Fork** the repository  
+2. 📥 **Clone your fork**:  
+   ```bash
+   git clone https://github.com/KrishBharadwaj5678/SMSX.git
+   ````
+
+3. 🌿 **Create a new branch**:
+
+   ```bash
+   git checkout -b feature-name
+   ```
+   
+4. ✍️ **Make your changes**:
+
+   ```bash
+   git commit -m "Add feature or fix description"
+   ```
+   
+5. 📤 **Push to your branch**:
+
+   ```bash
+   git push origin feature-name
+   ```
+   
+6. 🔃 **Open a Pull Request**.
