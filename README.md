@@ -28,8 +28,8 @@ This is a Python based SMS Bomber created for demonstrating how automated messag
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sms-bomber.git
-cd sms-bomber
+git clone https://github.com/KrishBharadwaj5678/SMSX.git
+cd SMSX
 ````
 
 ### 2. Install Dependencies
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ### 3. Run the App
 
 ```bash
-streamlit run bomber.py
+streamlit run app.py
 ```
 
 ---
