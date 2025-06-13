@@ -23,6 +23,17 @@ This is a Python based SMS Bomber created for demonstrating how automated messag
 
 ---
 
+## 🛠️ Tech Stack
+
+| Technology      | Description                                  |
+|-----------------|----------------------------------------------|
+| 🐍 Python       | Core programming language                     |
+| 🎨 Streamlit    | Interactive web app framework for UI          |
+| 🌐 urllib       | Manages HTTP requests for sending SMS         |
+| ⏱️ time         | Handles delays between messages                |
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
