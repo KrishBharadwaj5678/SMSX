@@ -1,6 +1,6 @@
-# 📱 SMSX 
+# 📲 SMSX 
 
-This is a Python based SMS Bomber created for demonstrating how automated message-sending works. This project can help users understand concepts such as request handling and rate limiting in real-world scenarios. 🚀
+This is a Python based SMS Bomber created for demonstrating how automated message sending works. This project can help users understand concepts such as request handling and rate limiting in real world scenarios. 🚀
 
 > **🚨 DISCLAIMER:**
 > This project is intended for **educational and ethical testing purposes only**.
@@ -12,10 +12,14 @@ This is a Python based SMS Bomber created for demonstrating how automated messag
 
 ## ⚙️ Features
 
-- 📨 Send multiple SMS messages using demo/public APIs
-- ⏱️ Customizable delay between messages
-- 🔁 Configurable number of messages to send
-- 🧪 Built with **Streamlit** for simple GUI
+| Feature                              | Description                                      |
+|------------------------------------|------------------------------------------------|
+| 📨 Send multiple SMS messages       | Send SMS in bulk quickly                          |
+| ⏱️ Customizable delay               | Set delay time between messages                   |
+| 🔁 Configurable message count      | Choose how many messages to send                  |
+| 🧪 Streamlit-based GUI              | User-friendly interface built with Streamlit     |
+| 📊 Real-time status updates         | Shows sending progress live in the UI              |
+| 🚀 Lightweight & fast              | Minimal dependencies, quick execution              |
 
 ---
 
