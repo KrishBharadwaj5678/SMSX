@@ -50,7 +50,7 @@ streamlit run app.py
 
 * This tool is **NOT** intended for illegal or malicious activity.
 * Use only on **numbers you own** or **have explicit permission** to test.
-* Violating terms of service of any third-party SMS provider may result in your IP being banned or legal action.
+* Violating terms of service may result in your IP being banned or legal action.
 
 ---
 
