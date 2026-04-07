@@ -1,6 +1,6 @@
 # 📲 SMSX 
 
-This is a Python based SMS Bomber created for demonstrating how automated message sending works. This project can help users understand concepts such as request handling and rate limiting in real world scenarios. 🚀
+This is a Python based SMS Bomber created for demonstrating how automated message sending works. This project can help users understand concepts such as request handling and rate limiting in real world scenarios. 
 
 > **🚨 DISCLAIMER:**
 > This project is intended for **educational and ethical testing purposes only**.
@@ -65,32 +65,12 @@ streamlit run app.py
 
 ---
 
-## 🤝 Contribution
+## Contributing 🤝
 
-Contributions are **welcome**!
+Want to contribute? Here's how:
 
-1. 🍴 **Fork** the repository  
-2. 📥 **Clone your fork**:  
-   ```bash
-   git clone https://github.com/KrishBharadwaj5678/SMSX.git
-   ````
-
-3. 🌿 **Create a new branch**:
-
-   ```bash
-   git checkout -b feature-name
-   ```
-   
-4. ✍️ **Make your changes**:
-
-   ```bash
-   git commit -m "Add feature or fix description"
-   ```
-   
-5. 📤 **Push to your branch**:
-
-   ```bash
-   git push origin feature-name
-   ```
-   
-6. 🔃 **Open a Pull Request**.
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
