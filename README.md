@@ -36,20 +36,25 @@ This is a Python based SMS Bomber created for demonstrating how automated messag
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/SMSX.git
-cd SMSX
 ````
 
-### 2. Install Dependencies
+### 2️⃣ Navigate to the Folder
+
+```bash
+cd SMSX
+```
+
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3. Run the App
+### 4️⃣ Run the Application
 
 ```bash
 streamlit run app.py
