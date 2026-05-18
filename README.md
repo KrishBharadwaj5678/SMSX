@@ -67,15 +67,3 @@ streamlit run app.py
 * This tool is **NOT** intended for illegal or malicious activity.
 * Use only on **numbers you own** or **have explicit permission** to test.
 * Violating terms of service may result in your IP being banned or legal action.
-
----
-
-## Contributing 🤝
-
-Want to contribute? Here's how:
-
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
