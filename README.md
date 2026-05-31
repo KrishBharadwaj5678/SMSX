@@ -1,3 +1,5 @@
+[English](README.md) | [Português](README.pt.md) | [日本語](README.ja.md) | [Русский](README.ru.md)
+
 # 📲 SMSX 
 
 This is a Python based SMS Bomber created for demonstrating how automated message sending works. This project can help users understand concepts such as request handling and rate limiting in real world scenarios. 
